@@ -6,6 +6,7 @@
 .ticket {
     background-color: lightskyblue;
     border: 1px dotted black;
+    border-radius: .75rem;
     padding: 0.7rem;
     margin: 0.5rem 0;
 }
